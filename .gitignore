@@ -1,3 +1,2 @@
-.yarn/*
 .env
-.pnp.*
+node_modules
