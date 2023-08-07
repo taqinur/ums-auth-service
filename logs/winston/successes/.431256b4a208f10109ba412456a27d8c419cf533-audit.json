@@ -14,6 +14,11 @@
             "date": 1691256478731,
             "name": "C:\\projects\\ums-auth-service\\logs\\winston\\successes\\success-2023-05-08-23.log",
             "hash": "4c66226f499b9e4c39eb71a76844d3ae44878ddbd5a8719308ea5309ce9aa11c"
+        },
+        {
+            "date": 1691395506555,
+            "name": "C:\\projects\\ums-auth-service\\logs\\winston\\successes\\success-2023-07-08-14.log",
+            "hash": "af687e865f356cfe812b84cbedfc2da4d887c240f5a6a41b83a68279439295b3"
         }
     ],
     "hashType": "sha256"
